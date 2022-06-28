@@ -1,0 +1,9 @@
+generic:
+  null: Brak tego tekstu Poinformuj moderatora
+  inform:
+    languagechange: Twój język wyświetlania został ustawiony na polski
+    locationsaved: Lokalizacja została zapisana!
+  deny:
+    use: Nie możesz tego tutaj użyć!
+    place: Nie możesz tego tutaj umieścić!
+  warn:

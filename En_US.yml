@@ -1,0 +1,25 @@
+generic:
+  null: This Text is missing or invalid  Please inform a moderator
+  inform:
+    languagechange: Your display language has been set to English
+    locationsaved: Location saved!
+    frozenbyplayer: You have been frozen by
+    item_activated: Your ^1^ activated
+    item_consumed: Your ^1^ was consumed!
+  deny:
+    use: You can't use this here!
+    place: You can't place this here!
+    survivalexclusive: This item/Block/Command only works in survival worlds!
+    creativeexclusive: This item/Block/Command only works in creative worlds!
+    mmoexclusive: This item/Block/Command only works in mmo worlds!
+    notunlocked: You have not unlocked this!
+  warn:
+    deprecated: This item/Block/Command has been deprecated
+    freezing: You're freezing!
+    summon_death: Your summon has perished
+    durability: Your ^1^ has ^2^ durability left
+command:
+  fail:
+    missing_argument: You are misssing a required argument
+  succeed:
+    reload: Reloaded successfully
