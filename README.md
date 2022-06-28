@@ -1,2 +1,2 @@
 # Zoracraft-Translation
-Translation string for the Zoracraft server
+Translation strings for the Zoracraft server
